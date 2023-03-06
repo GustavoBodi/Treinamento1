@@ -1,4 +1,4 @@
-export PATH := /home/labsec/openssl-1.0.2k/apps/openssl
+export PATH := /home/labsec/openssl-1.0.2k/apps/
 
 all:
 	openssl genrsa -out private.pem 2048
